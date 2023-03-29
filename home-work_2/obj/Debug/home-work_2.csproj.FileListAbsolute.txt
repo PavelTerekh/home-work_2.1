@@ -1,0 +1,8 @@
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\obj\Debug\home-work_2.csproj.AssemblyReference.cache
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\obj\Debug\home-work_2.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\obj\Debug\home-work_2.csproj.CoreCompileInputs.cache
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\bin\Debug\home-work_2.exe.config
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\bin\Debug\home-work_2.exe
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\bin\Debug\home-work_2.pdb
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\obj\Debug\home-work_2.exe
+D:\VS Projects\Bel_Hard_homework\home-work_2\home-work_2\obj\Debug\home-work_2.pdb
